@@ -1,0 +1,871 @@
+<tbody>
+	<tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25291">3R PETROLEUM ÓLEO E GÁS S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25291">3R PETROLEUM</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16284">524 PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16284">524 PARTICIP</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21725">ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21725">ADVANCED-DH</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25283">AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25283">AERIS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18970">AES TIETE ENERGIA SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18970">AES TIETE E</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22179">AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22179">AFLUENTE T</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16705">ALEF S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16705">ALEF S/A</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9954">ALFA HOLDINGS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9954">ALFA HOLDING</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21032">ALGAR TELECOM S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21032">ALGAR TELEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22357">ALIANSCE SONAE SHOPPING CENTERS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22357">ALIANSCSONAE</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24953">ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24953">ESTAPAR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=10456">ALPARGATAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=10456">ALPARGATAS</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22217">ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22217">ALPER S.A.</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18066">ALTERE SECURITIZADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18066">ALTERE SEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21490">ALUPAR INVESTIMENTO S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21490">ALUPAR</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23264">AMBEV S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23264">AMBEV S/A</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24961">AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24961">AMBIPAR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3050">AMPLA ENERGIA E SERVICOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3050">AMPLA ENERG</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23248">ANIMA HOLDING S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23248">ANIMA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22349">AREZZO INDÚSTRIA E COMÉRCIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22349">AREZZO CO</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24171">ATACADÃO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24171">CARREFOUR BR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19100">ATMA PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19100">ATMASA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15423">ATOM EMPREENDIMENTOS E PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15423">ATOMPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80187">AURA MINERALS INC.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80187">AURA 360</a></td><td>DR3</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11975">AZEVEDO E TRAVASSOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11975">AZEVEDO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24112">AZUL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24112">AZUL</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20990">B2W - COMPANHIA DIGITAL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20990">B2W DIGITAL</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21610">B3 S.A. - BRASIL. BOLSA. BALCÃO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21610">B3</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=701">BAHEMA EDUCAÇÃO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=701">BAHEMA</a></td><td>MA</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24600">BANCO BMG S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24600">BANCO BMG</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24406">BANCO INTER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24406">BANCO INTER</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1155">BANESTES S.A. - BCO EST ESPIRITO SANTO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1155">BANESTES</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1520">BARDELLA S.A. INDUSTRIAS MECANICAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1520">BARDELLA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15458">BATTISTELLA ADM PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15458">BATTISTELLA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1562">BAUMER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1562">BAUMER</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23159">BB SEGURIDADE PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23159">BBSEGURIDADE</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24660">BBM LOGISTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24660">BBMLOGISTICA</a></td><td>MA</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20958">BCO ABC BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20958">ABC BRASIL</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1384">BCO ALFA DE INVESTIMENTO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1384">ALFA INVEST</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=922">BCO AMAZONIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=922">AMAZONIA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=906">BCO BRADESCO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=906">BRADESCO</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1023">BCO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1023">BRASIL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22616">BCO BTG PACTUAL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22616">BTGP BANCO</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1120">BCO ESTADO DE SERGIPE S.A. - BANESE</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1120">BANESE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1171">BCO ESTADO DO PARA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1171">BANPARA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1210">BCO ESTADO DO RIO GRANDE DO SUL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1210">BANRISUL</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20885">BCO INDUSVAL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20885">INDUSVAL</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1309">BCO MERCANTIL DE INVESTIMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1309">MERC INVEST</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1325">BCO MERCANTIL DO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1325">MERC BRASIL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1228">BCO NORDESTE DO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1228">NORD BRASIL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21199">BCO PAN S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21199">BANCO PAN</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20567">BCO PINE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20567">PINE</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20532">BCO SANTANDER (BRASIL) S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20532">SANTANDER BR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17884">BETAPART PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17884">BETAPART</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1694">BICICLETAS MONARK S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1694">BIC MONARK</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19305">BIOMM S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19305">BIOMM</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22845">BIOSEV S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22845">BIOSEV</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24317">BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24317">BK BRASIL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16772">BNDES PARTICIPACOES S.A. - BNDESPAR</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16772">BNDESPAR</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25135">BOA VISTA SERVIÇOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25135">BOA VISTA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12190">BOMBRIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12190">BOMBRIL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19909">BR MALLS PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19909">BR MALLS PAR</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19925">BR PROPERTIES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19925">BR PROPERT</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19640">BRADESCO LEASING S.A. ARREND MERCANTIL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19640">BRADESCO LSG</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18724">BRADESPAR S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18724">BRADESPAR</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21180">BRASIL BROKERS PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21180">BR BROKERS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20036">BRASILAGRO - CIA BRAS DE PROP AGRICOLAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20036">BRASILAGRO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4820">BRASKEM S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4820">BRASKEM</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19720">BRAZIL REALTY CIA SECURIT. CRÉD. IMOBILIÁRIOS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19720">BRAZIL REALT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17922">BRAZILIAN FINANCE E REAL ESTATE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17922">BRAZILIAN FR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18759">BRAZILIAN SECURITIES CIA SECURITIZACAO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18759">BRAZILIAN SC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14206">BRB BCO DE BRASILIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14206">BRB BANCO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16292">BRF S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16292">BRF SA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19984">BRPR 56 SECURITIZADORA CRED IMOB S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19984">BRPR 56 SEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23817">BRQ SOLUCOES EM INFORMATICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23817">BRQ</a></td><td>MA</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19119">CABINDA PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19119">CABINDA PART</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22683">CACHOEIRA PAULISTA TRANSMISSORA ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22683">CACHOEIRA</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19135">CACONDE PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19135">CACONDE PART</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2100">CAMBUCI S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2100">CAMBUCI</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24228">CAMIL ALIMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24228">CAMIL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18821">CCR S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18821">CCR SA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24848">CEA MODAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24848">CEA MODAS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13854">CEMEPE INVESTIMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13854">CEMEPE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20303">CEMIG DISTRIBUICAO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20303">CEMIG DIST</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20320">CEMIG GERACAO E TRANSMISSAO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20320">CEMIG GT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2437">CENTRAIS ELET BRAS S.A. - ELETROBRAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2437">ELETROBRAS</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2461">CENTRAIS ELET DE SANTA CATARINA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2461">CELESC</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24058">CENTRO DE IMAGEM DIAGNOSTICOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24058">ALLIAR</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2577">CESP - CIA ENERGETICA DE SAO PAULO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2577">CESP</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14826">CIA BRASILEIRA DE DISTRIBUICAO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14826">P.ACUCAR-CBD</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16861">CIA CATARINENSE DE AGUAS E SANEAM.-CASAN</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16861">CASAN</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21393">CIA CELG DE PARTICIPACOES - CELGPAR</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21393">CELGPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16616">CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16616">CEG</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14524">CIA ELETRICIDADE EST. DA BAHIA - COELBA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14524">COELBA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14451">CIA ENERGETICA DE BRASILIA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14451">CEB</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2453">CIA ENERGETICA DE MINAS GERAIS - CEMIG</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2453">CEMIG</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14362">CIA ENERGETICA DE PERNAMBUCO - CELPE</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14362">CELPE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14869">CIA ENERGETICA DO CEARA - COELCE</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14869">COELCE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18139">CIA ENERGETICA DO RIO GDE NORTE - COSERN</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18139">COSERN</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20648">CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20648">CEEE-D</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3204">CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3204">CEEE-GT</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3069">CIA FERRO LIGAS DA BAHIA - FERBASA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3069">FERBASA</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3077">CIA FIACAO TECIDOS CEDRO CACHOEIRA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3077">CEDRO</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15636">CIA GAS DE SAO PAULO - COMGAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15636">COMGAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3298">CIA HABITASUL DE PARTICIPACOES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3298">HABITASUL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14761">CIA HERING</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14761">CIA HERING</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3395">CIA INDUSTRIAL CATAGUASES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3395">IND CATAGUAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22691">CIA LOCAÇÃO DAS AMÉRICAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22691">LOCAMERICA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3654">CIA MELHORAMENTOS DE SAO PAULO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3654">MELHOR SP</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14311">CIA PARANAENSE DE ENERGIA - COPEL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14311">COPEL</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18708">CIA PARTICIPACOES ALIANCA DA BAHIA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18708">PAR AL BAHIA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3824">CIA PAULISTA DE FORCA E LUZ</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3824">PAUL F LUZ</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19275">CIA PIRATININGA DE FORCA E LUZ</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19275">CPFL PIRATIN</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14443">CIA SANEAMENTO BASICO EST SAO PAULO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14443">SABESP</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19445">CIA SANEAMENTO DE MINAS GERAIS-COPASA MG</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19445">COPASA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18627">CIA SANEAMENTO DO PARANA - SANEPAR</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18627">SANEPAR</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3115">CIA SEGUROS ALIANCA DA BAHIA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3115">SEG AL BAHIA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4030">CIA SIDERURGICA NACIONAL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4030">SID NACIONAL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3158">CIA TECIDOS NORTE DE MINAS COTEMINAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3158">COTEMINAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4081">CIA TECIDOS SANTANENSE</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4081">SANTANENSE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18287">CIBRASEC - COMPANHIA BRASILEIRA DE SECURITIZACAO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18287">CIBRASEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21733">CIELO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21733">CIELO</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14818">CIMS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14818">CIMS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23965">CINESYSTEM S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23965">CINESYSTEM</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17973">COGNA EDUCAÇÃO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17973">COGNA ON</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22268">CONC AUTO RAPOSO TAVARES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22268">CONC RAPOSO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23515">CONC DO AEROPORTO INTERNACIONAL DE GUARULHOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23515">GRUAIRPORT</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20397">CONC ECOVIAS IMIGRANTES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20397">ECOVIAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19208">CONC RIO-TERESOPOLIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19208">CONC RIO TER</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22411">CONC ROD AYRTON SENNA E CARV PINTO S.A.-ECOPISTAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22411">ECOPISTAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21024">CONC ROD.OESTE SP VIAOESTE S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21024">VIAOESTE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22721">CONC RODOVIAS DO TIETÊ S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22721">ROD TIETE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22071">CONC ROTA DAS BANDEIRAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22071">RT BANDEIRAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20192">CONC SIST ANHANG-BANDEIRANT S.A. AUTOBAN</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20192">AUTOBAN</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4693">CONSERVAS ODERICH S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4693">ODERICH</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4707">CONSORCIO ALFA DE ADMINISTRACAO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4707">ALFA CONSORC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4723">CONSTRUTORA ADOLPHO LINDENBERG S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4723">CONST A LIND</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21148">CONSTRUTORA TENDA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21148">TENDA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4863">CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4863">COR RIBEIRO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23485">COSAN LOGISTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23485">COSAN LOG</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19836">COSAN S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19836">COSAN</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18660">CPFL ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18660">CPFL ENERGIA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20540">CPFL ENERGIAS RENOVÁVEIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20540">CPFL RENOVAV</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18953">CPFL GERACAO DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18953">CPFL GERACAO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20630">CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20630">CR2</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20044">CSU CARDSYSTEM S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20044">CSU CARDSYST</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23981">CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23981">CTC S.A.</a></td><td>MA</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18376">CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18376">TRAN PAULIST</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25100">CURY CONSTRUTORA E INCORPORADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25100">CURY S/A</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23310">CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23310">CVC BRASIL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14460">CYRELA BRAZIL REALTY S.A.EMPREEND E PART</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14460">CYRELA REALT</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21040">CYRELA COMMERCIAL PROPERT S.A. EMPR PART</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21040">CYRE COM-CCP</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25046">D1000 VAREJO FARMA PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25046">D1000VFARMA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19623">DIAGNOSTICOS DA AMERICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19623">DASA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14214">DIBENS LEASING S.A. - ARREND.MERCANTIL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14214">DIBENS LSG</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9342">DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9342">DIMED</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21350">DIRECIONAL ENGENHARIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21350">DIRECIONAL</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5207">DOHLER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5207">DOHLER</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23493">DOMMO ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23493">DOMMO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18597">DTCOM - DIRECT TO COMPANY S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18597">DTCOM-DIRECT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21091">DURATEX S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21091">DURATEX</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21741">ECO SECURITIZADORA DIREITOS CRED AGRONEGÓCIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21741">ECO SEC AGRO</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21903">ECORODOVIAS CONCESSÕES E SERVIÇOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21903">ECON</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19453">ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19453">ECORODOVIAS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19763">EDP - ENERGIAS DO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19763">ENERGIAS BR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15342">EDP ESPIRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15342">ESCELSA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16985">EDP SÃO PAULO DISTRIBUIÇÃO DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16985">EBE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5380">ELECTRO ACO ALTONA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5380">ACO ALTONA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17485">ELEKTRO REDES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17485">ELEKTRO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15784">ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15784">ELETROPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14176">ELETROPAULO METROP. ELET. SAO PAULO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14176">ELETROPAULO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16993">EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16993">EMAE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20087">EMBRAER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20087">EMBRAER</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22608">EMPREENDIMENTOS PAGUE MENOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22608">PAGUE MENOS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19011">EMPRESA CONC RODOV DO NORTE S.A.ECONORTE</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19011">ECONORTE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16497">EMPRESA NAC COM REDITO PART S.A.ENCORPAR</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16497">ENCORPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22365">ENAUTA PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22365">ENAUTA PART</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5576">ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5576">ENERSUL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14605">ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14605">ENERGISA MT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15253">ENERGISA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15253">ENERGISA</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21237">ENEVA S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21237">ENEVA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17329">ENGIE BRASIL ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17329">ENGIE BRASIL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25259">ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25259">ENJOEI</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20010">EQUATORIAL ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20010">EQUATORIAL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16608">EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16608">EQTLMARANHAO</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18309">EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18309">EQTL PARA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5762">ETERNIT S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5762">ETERNIT</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5770">EUCATEX S.A. INDUSTRIA E COMERCIO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5770">EUCATEX</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20524">EVEN CONSTRUTORA E INCORPORADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20524">EVEN</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1570">EXCELSIOR ALIMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=1570">EXCELSIOR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20770">EZ TEC EMPREEND. E PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20770">EZTEC</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22977">FERREIRA GOMES ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22977">FGENERGIA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15369">FERROVIA CENTRO-ATLANTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15369">FER C ATLANT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20621">FERTILIZANTES HERINGER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20621">FER HERINGER</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3891">FINANCEIRA ALFA S.A.- CRED FINANC E INVS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3891">ALFA FINANC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6076">FINANSINOS S.A.- CREDITO FINANC E INVEST</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6076">FINANSINOS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21881">FLEURY S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21881">FLEURY</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24350">FLEX GESTÃO DE RELACIONAMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24350">FLEX S/A</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6211">FRAS-LE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6211">FRAS-LE</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16101">GAFISA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16101">GAFISA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22764">GAIA AGRO SECURITIZADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22764">GAIA AGRO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20222">GAIA SECURITIZADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20222">GAIA SECURIT</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17965">GAMA PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17965">GAMA PART</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21008">GENERAL SHOPPING E OUTLETS DO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21008">GENERALSHOPP</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3980">GERDAU S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3980">GERDAU</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19569">GOL LINHAS AEREAS INTELIGENTES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19569">GOL</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80020">GP INVESTMENTS. LTD.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80020">GP INVEST</a></td><td>DR3</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16632">GPC PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16632">GPC PART</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4537">GRAZZIOTIN S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4537">GRAZZIOTIN</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19615">GRENDENE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19615">GRENDENE</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25011">GRUPO DE MODA SOMA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25011">GRUPO SOMA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25186">GRUPO MATEUS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25186">GRUPO MATEUS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24694">GRUPO SBF SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24694">CENTAURO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4669">GUARARAPES CONFECCOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4669">GUARARAPES</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13366">HAGA S.A. INDUSTRIA E COMERCIO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13366">HAGA S/A</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24392">HAPVIDA PARTICIPACOES E INVESTIMENTOS SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24392">HAPVIDA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20877">HELBOR EMPREENDIMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20877">HELBOR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6629">HERCULES S.A. FABRICA DE TALHERES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6629">HERCULES</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22675">HIDROVIAS DO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22675">HIDROVIAS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6700">HOTEIS OTHON S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6700">HOTEIS OTHON</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21431">HYPERA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21431">HYPERA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6815">IGB ELETRÔNICA S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6815">IGB S/A</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23175">IGUA SANEAMENTO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23175">IGUA SA</a></td><td>MA</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20494">IGUATEMI EMPRESA DE SHOPPING CENTERS S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20494">IGUATEMI</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12319">INDUSTRIAS J B DUARTE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12319">J B DUARTE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7510">INDUSTRIAS ROMI S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7510">INDS ROMI</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7595">INEPAR S.A. INDUSTRIA E CONSTRUCOES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7595">INEPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24090">INSTITUTO HERMES PARDINI S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24090">IHPARDINI</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24279">INTER CONSTRUTORA E INCORPORADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24279">INTER SA</a></td><td>MA</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23574">INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23574">IMC S/A</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6041">INVESTIMENTOS BEMGE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6041">INVEST BEMGE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18775">INVESTIMENTOS E PARTICIP. EM INFRA S.A. - INVEPAR</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18775">INVEPAR</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11932">IOCHPE MAXION S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11932">IOCHP-MAXION</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2429">IRANI PAPEL E EMBALAGEM S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=2429">IRANI</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24180">IRB - BRASIL RESSEGUROS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24180">IRBBRASIL RE</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19364">ITAPEBI GERACAO DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19364">ITAPEBI</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19348">ITAU UNIBANCO HOLDING S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19348">ITAUUNIBANCO</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7617">ITAUSA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7617">ITAUSA</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21156">J. MACEDO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21156">J.MACEDO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20575">JBS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20575">JBS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8672">JEREISSATI PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8672">JEREISSATI</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20605">JHSF PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20605">JHSF PART</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7811">JOAO FORTES ENGENHARIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7811">JOAO FORTES</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13285">JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13285">JOSAPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22020">JSL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22020">JSL</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4146">KARSTEN S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4146">KARSTEN</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7870">KEPLER WEBER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7870">KEPLER WEBER</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12653">KLABIN S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12653">KLABIN S/A</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25062">LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25062">LAVVI</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24872">LIFEMED INDUSTRIAL EQUIP. DE ART. MÉD. HOSP. S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24872">LIFEMED</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19879">LIGHT S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19879">LIGHT S/A</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8036">LIGHT SERVICOS DE ELETRICIDADE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8036">LIGHT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23035">LINX S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23035">LINX</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15091">LITEL PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15091">LITEL</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24759">LITELA PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24759">LITELA</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19739">LOCALIZA RENT A CAR S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19739">LOCALIZA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24910">LOCAWEB SERVIÇOS DE INTERNET S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24910">LOCAWEB</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23272">LOG COMMERCIAL PROPERTIES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23272">LOG COM PROP</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20710">LOG-IN LOGISTICA INTERMODAL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20710">LOG-IN</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8087">LOJAS AMERICANAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8087">LOJAS AMERIC</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25038">LOJAS QUERO-QUERO S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25038">QUERO-QUERO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8133">LOJAS RENNER S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8133">LOJAS RENNER</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20370">LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20370">LOPES BRASIL</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20060">LUPATECH S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20060">LUPATECH</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20338">M.DIAS BRANCO S.A. IND COM DE ALIMENTOS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20338">M.DIASBRANCO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23612">MAESTRO LOCADORA DE VEICULOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23612">MAESTROLOC</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22470">MAGAZINE LUIZA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22470">MAGAZ LUIZA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8575">MAHLE-METAL LEVE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8575">METAL LEVE</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8397">MANGELS INDUSTRIAL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8397">MANGELS INDL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8427">MANUFATURA DE BRINQUEDOS ESTRELA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8427">ESTRELA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8451">MARCOPOLO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8451">MARCOPOLO</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20788">MARFRIG GLOBAL FOODS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20788">MARFRIG</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22055">MARISA LOJAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22055">LOJAS MARISA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25232">MÉLIUZ S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25232">MELIUZ</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25119">MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25119">MELNICK</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8540">MERCANTIL BRASIL FINANC S.A. C.F.I.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8540">MERC FINANC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20613">METALFRIO SOLUTIONS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20613">METALFRIO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8605">METALGRAFICA IGUACU S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8605">METAL IGUACU</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8656">METALURGICA GERDAU S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8656">GERDAU MET</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13439">METALURGICA RIOSULENSE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13439">RIOSULENSE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8753">METISA METALURGICA TIMBOENSE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8753">METISA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22942">MGI - MINAS GERAIS PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22942">MGI PARTICIP</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22012">MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22012">MILLS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8818">MINASMAQUINAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8818">MINASMAQUINA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20931">MINERVA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20931">MINERVA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13765">MINUPAR PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13765">MINUPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24902">MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24902">MITRE REALTY</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17914">MMX MINERACAO E METALICOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17914">MMX MINER</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8893">MONTEIRO ARANHA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8893">MONT ARANHA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21067">MOURA DUBEUX ENGENHARIA S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21067">MOURA DUBEUX</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23825">MOVIDA PARTICIPACOES SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23825">MOVIDA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17949">MRS LOGISTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17949">MRS LOGIST</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20915">MRV ENGENHARIA E PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20915">MRV</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20982">MULTIPLAN - EMPREEND IMOBILIARIOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20982">MULTIPLAN</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5312">MUNDIAL S.A. - PRODUTOS DE CONSUMO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5312">MUNDIAL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24783">NATURA &amp;CO HOLDING S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24783">GRUPO NATURA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19550">NATURA COSMETICOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19550">NATURA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15539">NEOENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15539">NEOENERGIA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9083">NORDON INDUSTRIAS METALURGICAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9083">NORDON MET</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22985">NORTEC QUÍMICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22985">NORTCQUIMICA</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24384">NOTRE DAME INTERMEDICA PARTICIPACOES SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24384">INTERMEDICA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21334">NUTRIPLANT INDUSTRIA E COMERCIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21334">NUTRIPLANT</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22390">OCTANTE SECURITIZADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22390">OCTANTE SEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20125">ODONTOPREV S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20125">ODONTOPREV</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11312">OI S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11312">OI</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23426">OMEGA GERAÇÃO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23426">OMEGA GER</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16942">OPPORTUNITY ENERGIA E PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16942">OPPORT ENERG</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21342">OSX BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21342">OSX BRASIL</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22250">OURINVEST SECURITIZADORA SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22250">OURINVESTSEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23507">OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23507">OUROFINO S/A</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23280">OURO VERDE LOCACAO E SERVICO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23280">OURO VERDE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18414">PADTEC HOLDING S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18414">PADTEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=94">PANATLANTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=94">PANATLANTICA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20729">PARANA BCO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20729">PARANA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9393">PARANAPANEMA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9393">PARANAPANEMA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18236">PATRIA CIA SECURITIZADORA DE CRED IMOB</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18236">PATRIA SEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13773">PBG S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13773">PORTOBELLO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21644">PDG COMPANHIA SECURITIZADORA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21644">PDG SECURIT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20478">PDG REALTY S.A. EMPREEND E PARTICIPACOES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20478">PDG REALT</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25089">PET CENTER COMERCIO  E PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25089">PETZ</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22187">PETRO RIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22187">PETRORIO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24295">PETROBRAS DISTRIBUIDORA S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24295">PETROBRAS BR</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9512">PETROLEO BRASILEIRO S.A. PETROBRAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9512">PETROBRAS</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9539">PETTENATI S.A. INDUSTRIA TEXTIL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9539">PETTENATI</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25070">PLANO &amp; PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25070">PLANOEPLANO</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13471">PLASCAR PARTICIPACOES INDUSTRIAIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13471">PLASCAR PART</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22160">POLO CAPITAL SECURITIZADORA S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22160">POLO CAP SEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13447">POLPAR S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13447">POLPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19658">POMIFRUTAS S/A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19658">POMIFRUTAS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16659">PORTO SEGURO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16659">PORTO SEGURO</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23523">PORTO SUDESTE V.M. S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23523">PORTO VM</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20362">POSITIVO TECNOLOGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20362">POSITIVO TEC</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80152">PPLA PARTICIPATIONS LTD.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80152">PPLA</a></td><td>DR3</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24546">PRATICA KLIMAQUIP INDUSTRIA E COMERCIO SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24546">PRATICA</a></td><td>M2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24236">PRINER SERVIÇOS INDUSTRIAIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24236">PRINER</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19232">PRODUTORES ENERGET.DE MANSO S.A.- PROMAN</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19232">PROMAN</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20346">PROFARMA DISTRIB PROD FARMACEUTICOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20346">PROFARMA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18333">PROMPT PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18333">PROMPT PART</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22497">QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22497">QUALICORP</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23302">QUALITY SOFTWARE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23302">QUALITY SOFT</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5258">RAIA DROGASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5258">RAIADROGASIL</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23230">RAIZEN ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23230">RAIZEN ENERG</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14109">RANDON S.A. IMPLEMENTOS E PARTICIPACOES</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14109">RANDON PART</a></td><td>N1</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18406">RB CAPITAL COMPANHIA DE SECURITIZAÇÃO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18406">RBCAPITALRES</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18430">REAL AI PIC SEC DE CREDITOS IMOBILIARIO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18430">WTORRE PIC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12572">RECRUSUL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12572">RECRUSUL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3190">REDE ENERGIA PARTICIPAÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=3190">REDE ENERGIA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9989">REFINARIA DE PETROLEOS MANGUINHOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9989">PET MANGUINH</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21636">RENOVA ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21636">RENOVA</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21440">RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21440">LE LIS BLANC</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16527">RGE SUL DISTRIBUIDORA DE ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16527">AES SUL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18368">RIO PARANAPANEMA ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18368">GER PARANAP</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20451">RNI NEGÓCIOS IMOBILIÁRIOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20451">RNI</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23167">RODOVIAS DAS COLINAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23167">ROD COLINAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16306">ROSSI RESIDENCIAL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16306">ROSSI RESID</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15300">RUMO MALHA NORTE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=15300">ALL NORTE</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17930">RUMO MALHA PAULISTA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17930">ALL PAULISTA</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17450">RUMO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17450">RUMO S.A.</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23540">SALUS INFRAESTRUTURA PORTUARIA SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23540">SALUS INFRA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19593">SANESALTO SANEAMENTO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19593">SANESALTO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12696">SANSUY S.A. INDUSTRIA DE PLASTICOS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12696">SANSUY</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14923">SANTHER FAB DE PAPEL STA THEREZINHA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14923">SANTHER</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23388">SANTO ANTONIO ENERGIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23388">STO ANTONIO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17892">SANTOS BRASIL PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17892">SANTOS BRP</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13781">SAO CARLOS EMPREEND E PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13781">SAO CARLOS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20516">SAO MARTINHO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20516">SAO MARTINHO</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9415">SAO PAULO TURISMO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9415">SPTURIS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=10472">SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=10472">SARAIVA LIVR</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14664">SCHULZ S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14664">SCHULZ</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25160">SEQUOIA LOGISTICA E TRANSPORTES S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25160">SEQUOIA LOG</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23221">SER EDUCACIONAL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23221">SER EDUCA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12823">SIDERURGICA J. L. ALIPERTI S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=12823">ALIPERTI</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25003">SIMPAR S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25003">SIMPAR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22799">SINQIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22799">SINQIA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20745">SLC AGRICOLA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20745">SLC AGRICOLA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24260">SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24260">SMART FIT</a></td><td>M2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24252">SMILES FIDELIDADE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24252">SMILES</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=10880">SONDOTECNICA ENGENHARIA SOLOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=10880">SONDOTECNICA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20966">SPRINGS GLOBAL PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20966">SPRINGS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24201">STARA S.A. - INDÚSTRIA DE IMPLEMENTOS AGRÍCOLAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24201">STARA</a></td><td>MA</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22594">STATKRAFT ENERGIAS RENOVAVEIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22594">STATKRAFT</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16586">SUDESTE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16586">SUDESTE S/A</a></td><td>MB</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16438">SUL 116 PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16438">SUL 116 PART</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21121">SUL AMERICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21121">SUL AMERICA</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9067">SUZANO HOLDING S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=9067">SUZANO HOLD</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13986">SUZANO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=13986">SUZANO S.A.</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22454">T4F ENTRETENIMENTO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22454">TIME FOR FUN</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6173">TAURUS ARMAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6173">TAURUS ARMAS</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24066">TCP TERMINAL DE CONTEINERES DE PARANAGUA SA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24066">TCP TERMINAL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22519">TECHNOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22519">TECHNOS</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20435">TECNISA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20435">TECNISA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11207">TECNOSOLO ENGENHARIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11207">TECNOSOLO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20800">TEGMA GESTAO LOGISTICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20800">TEGMA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11223">TEKA-TECELAGEM KUEHNRICH S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11223">TEKA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11231">TEKNO S.A. - INDUSTRIA E COMERCIO</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11231">TEKNO</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11258">TELEC BRASILEIRAS S.A. TELEBRAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11258">TELEBRAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17671">TELEFÔNICA BRASIL S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17671">TELEF BRASIL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23329">TERMELÉTRICA PERNAMBUCO III S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23329">TERM. PE III</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18538">TERMINAL GARAGEM MENEZES CORTES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18538">MENEZES CORT</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19852">TERMOPERNAMBUCO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19852">TERMOPE</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20354">TERRA SANTA AGRO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20354">TERRA SANTA</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7544">TEXTIL RENAUXVIEW S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=7544">TEX RENAUX</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17639">TIM PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=17639">TIM PART S/A</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24929">TIM S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24929">TIM</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19992">TOTVS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19992">TOTVS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19330">TPI - TRIUNFO PARTICIP. E INVEST. S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=19330">TRIUNFO PART</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25208">TRACK &amp; FIELD CO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=25208">TRACK FIELD</a></td><td>N2</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20257">TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20257">TAESA</a></td><td>N2</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8192">TREVISA INVESTIMENTOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=8192">TREVISA</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23060">TRIÂNGULO DO SOL AUTO-ESTRADAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23060">TRIANGULOSOL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21130">TRISUL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21130">TRISUL</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11398">TRONOX PIGMENTOS DO BRASIL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11398">CRISTAL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22276">TRUE SECURITIZADORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22276">TRUESEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6343">TUPY S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6343">TUPY</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18465">ULTRAPAR PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=18465">ULTRAPAR</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22780">UNICASA INDÚSTRIA DE MÓVEIS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=22780">UNICASA</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21555">UNIDAS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21555">UNIDAS</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11592">UNIPAR CARBOCLORO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11592">UNIPAR</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16624">UPTICK PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=16624">UPTICK</a></td><td>MB</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14320">USINAS SID DE MINAS GERAIS S.A.-USIMINAS</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14320">USIMINAS</a></td><td>N1</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4170">VALE S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=4170">VALE</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20028">VALID SOLUÇÕES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20028">VALID</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23990">VERT COMPANHIA SECURITIZADORA</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23990">VERTCIASEC</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6505">VIA VAREJO S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=6505">VIAVAREJO</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24805">VIVARA PARTICIPAÇOES S.A</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=24805">VIVARA S.A.</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20702">VIVER INCORPORADORA E CONSTRUTORA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=20702">VIVER</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11762">VULCABRAS/AZALEIA S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11762">VULCABRAS</a></td><td>NM</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5410">WEG S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=5410">WEG</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11991">WETZEL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11991">WETZEL S/A</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14346">WHIRLPOOL S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=14346">WHIRLPOOL</a></td><td>&nbsp;</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80047">WILSON SONS LTD.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=80047">WILSON SONS</a></td><td>DR3</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23590">WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=23590">WIZ S.A.</a></td><td>NM</td>
+	</tr><tr class="GridRow_SiteBmfBovespa GridBovespaItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11070">WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=11070">WLM IND COM</a></td><td>&nbsp;</td>
+	</tr><tr class="GridAltRow_SiteBmfBovespa GridBovespaAlternatingItemStyle">
+		<td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21016">YDUQS PARTICIPACOES S.A.</a></td><td><a href="ResumoEmpresaPrincipal.aspx?codigoCvm=21016">YDUQS PART</a></td><td>NM</td>
+	</tr>
+	</tbody>
